@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format2.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="2">
-  <name>ydlidar_ros2_driver</name>
+  <name>ydlidar_x2l_driver</name>
   <version>1.0.1</version>
   <description>
-    The ROS2 device driver for YDLIDAR LIDARS
+    Preconfigured driver for YDLidar X2L lidar for use in Ubuntu 24.04 + ROS2 Jazzy
   </description>
   <maintainer email="support@ydlidar.com">Tony</maintainer>
   <license>MIT</license>

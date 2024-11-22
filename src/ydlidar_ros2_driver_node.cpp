@@ -35,7 +35,7 @@
 int main(int argc, char *argv[]) {
   rclcpp::init(argc, argv);
 
-  auto node = rclcpp::Node::make_shared("ydlidar_ros2_driver_node");
+  auto node = rclcpp::Node::make_shared("ydlidar_x2l_ros2_driver_node");
 
   RCLCPP_INFO(node->get_logger(), "[YDLIDAR INFO] Current ROS Driver Version: %s\n", ((std::string)ROS2Verision).c_str());
 
